@@ -2,12 +2,12 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://pabio.com",
+      "destination": "https://www.profitableratecpm.com/ew20p87p2?key=391b075e34f83715225280f7aef32036",
       "permanent": true
     },
     { 
       "source": "/:path*",
-      "destination": "https://pabio.com/:path*",
+      "destination": "https://www.profitableratecpm.com/ew20p87p2?key=391b075e34f83715225280f7aef32036/:path*",
       "permanent": true
     }
   ]
